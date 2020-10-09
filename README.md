@@ -20,3 +20,7 @@ Selects a random color from the list, and says that they are sus.
 Outputs a random string containing funny Among Us lines.
 
 ![Fortune Command](https://github.com/BenPowellDev/AmongUsBot/blob/main/Command%20img/fortune.png)
+
+## Ping Command
+Pings the host, and returns the latency to the user.
+![Ping Command](https://github.com/BenPowellDev/AmongUsBot/blob/main/Command%20img/ping.png)
