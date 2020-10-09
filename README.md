@@ -1,5 +1,5 @@
 # AmongUsBot
-This is a bot that I created to add some Among Us functionality to a discord server.
+This is a bot that I created to add some Among Us functionality to a discord server. Allows users to summon everyone to play, or say that another player is sus.
 
 ## Help Command
 DM's the user who used the command the list of commands available to them.
